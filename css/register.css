@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff1dc;
+}
+nav .navbar-brand{
+    font-size: 1.4rem;
+}
+nav{
+    margin: 2rem 0 6rem 0;
+    font-size: 1.2rem;
+}
+form h1{
+    font-family: "Sedan SC", serif;
+    font-size: 3.2rem;
+}
+form .col-12 button{
+    font-size: 1.2rem;
+}
